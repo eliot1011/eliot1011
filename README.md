@@ -1,19 +1,17 @@
-## 👋✨ Hey everyone, I'm Air128731®™ Brave Dragon®™ ✨👋
+## 👋✨ Hey everyone, I'm Henry Scott. ™Brave Dragon™✨👋
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/robin-hatorri-393a5a235/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Senior Full Stack & Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Japan.
+I am a Senior Full Stack & Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend, backend and smart contract for building web applications.
 - 🌱 I worked on several blockchain platforms such as DEX, DEFI, DAO.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; paladin0742x@gmail.com
-
+- 📫 How to reach me: &nbsp; henry.scott0x8080@gmail.com
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -65,7 +63,6 @@ I am a Senior Full Stack & Blockchain Developer <img src="https://media.giphy.co
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
