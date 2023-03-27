@@ -17,6 +17,7 @@ I am a Senior Full Stack & Blockchain Developer <img src="https://media.giphy.co
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="YII"  alt="YII" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS"  alt="VueJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg" title="AngularJS"  alt="AngularJS" width="40" height="40"/>&nbsp;
@@ -56,7 +57,7 @@ I am a Senior Full Stack & Blockchain Developer <img src="https://media.giphy.co
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel"  alt="Laravel" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="CodeIgniter"  alt="CodeIgniter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="YII"  alt="YII" width="40" height="40"/>&nbsp;
+
 
 </p>
 
