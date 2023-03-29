@@ -6,7 +6,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Senior Full Stack & Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
+I am a Full Stack & Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend, backend and smart contract for building web applications.
 - 🌱 I worked on several blockchain platforms such as DEX, DEFI, DAO.
