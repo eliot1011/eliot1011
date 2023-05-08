@@ -11,7 +11,7 @@ I am a Full Stack & Blockchain Developer <img src="https://media.giphy.com/media
 - 🔭 I’m working as a Software Engineer and contributing to frontend, backend and smart contract for building web applications.
 - 🌱 I worked on several blockchain platforms such as DEX, DEFI, DAO.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; henry.scott0x8080@gmail.com
+- 📫 How to reach me: &nbsp; Discord: _Toothless_#7799
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
