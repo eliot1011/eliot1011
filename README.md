@@ -1,4 +1,4 @@
-## 👋✨ Hey everyone, I'm Henry Scott. ™Brave Dragon™✨👋
+## 👋✨ Hey everyone, This is blockchain & fullstack engineer ™Brave Dragon™✨👋
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
@@ -6,7 +6,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack & Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
+I am a Full Stack & Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend, backend and smart contract for building web applications.
 - 🌱 I worked on several blockchain platforms such as DEX, DEFI, DAO.
