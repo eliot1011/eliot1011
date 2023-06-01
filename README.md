@@ -8,7 +8,7 @@
 
 I am a Full Stack & Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 Highly-skilled Blockchain Fullstack Developer with an entrepreneurial mindset and passion for creating cohesive, engaging experiences over 7 years.
+- 🔭 Highly-skilled Developer with an entrepreneurial mindset and passion for creating cohesive, engaging experiences over 7 years.
 - 🌱 Proficient in both frontend and backend development, with extensive knowledge of various blockchain technologies.
 - ⚡ A passionate developer who enjoys learning new technologies and building innovative solutions that solve real-world problems.
 - 📫 How to reach me: &nbsp; henry.scott0x8080@gmail.com
