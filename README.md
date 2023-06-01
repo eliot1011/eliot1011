@@ -8,10 +8,10 @@
 
 I am a Full Stack & Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend, backend and smart contract for building web applications.
-- 🌱 I worked on several blockchain platforms such as DEX, DEFI, DAO.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; Discord: _Toothless_#7799
+- 🔭 Highly-skilled Blockchain Fullstack Developer with an entrepreneurial mindset and passion for creating cohesive, engaging experiences over 7 years.
+- 🌱 Proficient in both frontend and backend development, with extensive knowledge of various blockchain technologies.
+- ⚡ A passionate developer who enjoys learning new technologies and building innovative solutions that solve real-world problems.
+- 📫 How to reach me: &nbsp; henry.scott0x8080@gmail.com
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -37,7 +37,6 @@ I am a Full Stack & Blockchain Developer <img src="https://media.giphy.com/media
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="BootStrap"  alt="BootStrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity"  alt="Solidity" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust"  alt="Rust" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Graphql"  alt="Graphql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
@@ -51,7 +50,6 @@ I am a Full Stack & Blockchain Developer <img src="https://media.giphy.com/media
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-line-wordmark.svg" title="Composer"  alt="Composer" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android"  alt="Android" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel"  alt="Laravel" width="40" height="40"/>&nbsp;
@@ -59,13 +57,7 @@ I am a Full Stack & Blockchain Developer <img src="https://media.giphy.com/media
 <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="YII"  alt="YII" width="40" height="40"/>&nbsp;
 
 </p>
-
----
-
-### 🔥 &nbsp; My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 ---
 
 ### Watch my contribution graph get eaten by the snake 🐍
