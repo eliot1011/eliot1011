@@ -1,4 +1,4 @@
-<h2 align="center"> 👋✨ Hi, everyone, This is ™Brave Dragon™✨👋<p>
+<h2 align="center"> 👋✨ Hi, everyone✨👋<p>
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
