@@ -6,12 +6,12 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack & Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a passionate Full Stack & Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 Highly-skilled Developer with an entrepreneurial mindset and passion for creating cohesive, engaging experiences over 7 years.
 - 🌱 Proficient in both frontend and backend development, with extensive knowledge of various blockchain technologies.
 - ⚡ Enjoys learning new technologies and building innovative solutions that solve real-world problems.
-- 📫 How to reach me: &nbsp; henry.scott0x8080@gmail.com
+- 📫 How to reach me: &nbsp; henry.scott0x1011@gmail.com
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
