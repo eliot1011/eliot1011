@@ -11,7 +11,6 @@ I am a passionate Full Stack & Blockchain Developer.
 - 🔭 Highly-skilled Developer with an entrepreneurial mindset and passion for creating cohesive, engaging experiences over 7 years.
 - 🌱 Proficient in both frontend and backend development, with extensive knowledge of various blockchain technologies.
 - ⚡ Enjoys learning new technologies and building innovative solutions that solve real-world problems.
-- 📫 How to reach me: &nbsp; domisolamon0921@gmail.com
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
