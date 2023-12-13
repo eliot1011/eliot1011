@@ -4,7 +4,7 @@
 <p align="center">
 </p>
 
-### :woman_technologist: &nbsp;About Me :
+### &nbsp;About Me :
 
 I am a passionate Full Stack & Blockchain Developer.
 
