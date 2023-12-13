@@ -6,14 +6,14 @@
 
 ### &nbsp;About Me :
 
-I am a passionate Full Stack & Blockchain Developer.
+I am a passionate Developer with highly expertised in Frontend and Solidity.
 
 - 🔭 Highly-skilled Developer with an entrepreneurial mindset and passion for creating cohesive, engaging experiences over 7 years.
-- 🌱 Proficient in both frontend and backend development, with extensive knowledge of various blockchain technologies.
+- 🌱 Proficient in both frontend and solidity development, with extensive knowledge of various blockchain technologies.
 - ⚡ Enjoys learning new technologies and building innovative solutions that solve real-world problems.
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Familiar Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -53,6 +53,5 @@ I am a passionate Full Stack & Blockchain Developer.
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel"  alt="Laravel" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="CodeIgniter"  alt="CodeIgniter" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="YII"  alt="YII" width="40" height="40"/>&nbsp;
 
 </p>
